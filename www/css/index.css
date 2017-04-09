@@ -1,0 +1,29 @@
+  body { background: grey !important;
+
+  }
+#title
+{
+color: white;
+text-align: left;
+}
+
+.nr_title
+{
+  text-align: center;
+  font-weight: bold;
+
+}
+.nr
+{
+  width:50px;
+  text-align: center;
+
+}
+
+.title
+{
+
+background-color: #d1cccc;
+color: black;
+font-weight: bold;
+}
